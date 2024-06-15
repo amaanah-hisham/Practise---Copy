@@ -1,0 +1,89 @@
+{
+  "coldWeather": [
+    {
+      "name": "Cafe Mocha",
+      "price": "800",
+      "description": "A blend of espresso, steamed milk, and chocolate syrup, topped with whipped cream!!",
+      "imagePath": "lib/images/mocha3.png"
+    },
+    {
+      "name": "Cafe Latte",
+      "price": "600",
+      "description": "A creamy drink made with espresso and steamed milk, topped with milk foam!!",
+      "imagePath": "lib/images/coffee_3.jpg"
+    },
+    {
+      "name": "Americano",
+      "price": "400",
+      "description": "Made by diluting a shot of espresso with hot water, strength to drip coffee!!",
+      "imagePath": "lib/images/americano2.jpg"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "700",
+      "description": "A classic Italian beverage consisting of equal parts espresso, steamed milk!!",
+      "imagePath": "lib/images/capp.jpg"
+    },
+    {
+      "name": "Macchiato",
+      "price": "900",
+      "description": "A blend of espresso, steamed milk, and caramel syrup, creating a sweet treat!!",
+      "imagePath": "lib/images/caramel.jpg"
+    }
+  ],
+
+  "mildWeather": [
+    {
+      "name": "Tiramisu",
+      "price": "900",
+      "description": "Indulge in layers of espresso-soaked ladyfingers, mascarpone cheese, and a dusting of cocoa!!",
+      "imagePath": "lib/images/tiramisu.jpg"
+    },
+    {
+      "name": "Crème Brûlée",
+      "price": "1000",
+      "description": "Velvety vanilla custard topped with a caramelized sugar crust, served in an elegant ramekin!!",
+      "imagePath": "lib/images/creme.jpg"
+    },
+    {
+      "name": "Brownie",
+      "price": "300",
+      "description": "Indulge in our decadent chocolate brownie, boasting a fudgy interior and crackly top!!",
+      "imagePath": "lib/images/brownie.jpg"
+    },
+    {
+      "name": "Tres Leches",
+      "price": "900",
+      "description": "A sponge cake soaked in three types of milk—evaporated milk, condensed milk, and cream!!",
+      "imagePath": "lib/images/tres.jpg"
+    }
+  ],
+
+  "warmWeather": [
+    {
+      "name": "Iced Coffee",
+      "price": "600",
+      "description": "Chilled coffee served over ice, often with the option to add milk, cream, or sweeteners to taste!!",
+      "imagePath": "lib/images/iced.jpg"
+    },
+    {
+      "name": "Frappuccino",
+      "price": "800",
+      "description": "A blended coffee beverage made with espresso, milk, ice, and flavored syrups!!",
+      "imagePath": "lib/images/frappe.jpg"
+    },
+    {
+      "name": "Milk Tea",
+      "price": "600",
+      "description": "Chilled brewed tea served with milk and tapioca pearls, available in strong black tea flavour!!",
+      "imagePath": "lib/images/tea.jpg"
+    },
+    {
+      "name": "Iced Americano",
+      "price": "700",
+      "description": "Espresso served over ice, offering a strong and refreshing coffee option!!",
+      "imagePath": "lib/images/americano3.jpg"
+    }
+  ]
+}
+

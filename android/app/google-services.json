@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303465566385",
+    "project_id": "fireconnect-2ada1",
+    "storage_bucket": "fireconnect-2ada1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303465566385:android:ea45f827b066faf97b9290",
+        "android_client_info": {
+          "package_name": "com.example.practise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrv3TdGC_Y-NmRK-krGA4NXfH8XuKypog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
